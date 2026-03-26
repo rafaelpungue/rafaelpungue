@@ -63,11 +63,11 @@ I specialize in leveraging data to drive smarter decisions and build intelligent
 ## Hotel Booking Cancellation Prediction
 Developed a machine learning solution for Hotel Havens, a luxury hotel chain, to predict customer cancellations and understand booking patterns. The project aims to optimize resource management, reduce revenue loss, and improve customer retention.
 
-**Problem**: High customer cancellation rates make it challenging to forecast occupancy, manage staffing, and allocate resources effectively.
-**Solution**: Built a predictive classification model that analyzes historical booking data to forecast the likelihood of cancellations and identify the main factors influencing them.
-**Key Achievement**: Created an accurate model that enables early detection of potential cancellations, allowing the hotel to take proactive measures.
-**Tools & Tech**: Python, Pandas, Scikit-learn, XGBoost, Feature Engineering, Data Visualization (Matplotlib & Seaborn)
-**Impact**: Improved occupancy forecasting, optimized room inventory and staff scheduling, reduced revenue loss from last-minute cancellations, and supported the development of targeted customer retention strategies.
+- **Problem**: High customer cancellation rates make it challenging to forecast occupancy, manage staffing, and allocate resources effectively.
+- **Solution**: Built a predictive classification model that analyzes historical booking data to forecast the likelihood of cancellations and identify the main factors influencing them.
+- **Key Achievement**: Created an accurate model that enables early detection of potential cancellations, allowing the hotel to take proactive measures.
+- **Tools & Tech**: Python, Pandas, Scikit-learn, XGBoost, Feature Engineering, Data Visualization (Matplotlib & Seaborn)
+- **Impact**: Improved occupancy forecasting, optimized room inventory and staff scheduling, reduced revenue loss from last-minute cancellations, and supported the development of targeted customer retention strategies.
 
 <img width="1228" height="817" alt="image" src="https://github.com/user-attachments/assets/ea17197d-8897-40dd-9c3e-4ebaad51e5a4" />
 
