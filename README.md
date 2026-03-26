@@ -115,3 +115,40 @@ Ability to adapt pricing dynamically to trends and demand shifts.
 Replaces manual pricing with intelligent, scalable systems.
 
 <img width="692" height="362" alt="image" src="https://github.com/user-attachments/assets/6f4e0c34-5432-4359-b716-2570fa02d8e9" />
+
+
+## Credit Card customer segmentation
+
+- **Problem**
+The business lacked a clear understanding of customer behaviour, leading to:
+•	High customer attrition without targeted retention strategies
+•	Underutilized customers generating low revenue
+•	Inability to identify and prioritize high-value customers
+
+
+- **Solution**:
+- Applied K-Means clustering to segment customers into meaningful groups based on behaviour, income, and usage patterns.
+- Identified 3 actionable segments:
+- High-risk / attrition-prone customers
+- Low-engagement / dormant users
+- High-value / loyal customers
+- Translated clusters into business-driven strategies (retention, growth, premium focus
+
+
+- **Key Achievement**:
+- Discovered clear behavioural patterns driving churn and engagement
+- Enabled targeted marketing strategies for each segment
+- Transformed raw clustering output into business-actionable insights
+- Simplified decision-making with interpretable customer profiles
+
+
+- **Tools & Tech**: Python, Pandas, Scikit-learn, K-Means Clustering, Feature Engineering, Data Visualization (Matplotlib & Seaborn)
+- 
+- **Impact**:
+- Improved customer retention strategy (Cluster 0)
+- Unlocked revenue growth opportunities (Cluster 1)
+- Strengthened focus on high-value customers (Cluster 2)
+- Enabled data-driven decision making across marketing and customer management
+
+- <img width="612" height="408" alt="image" src="https://github.com/user-attachments/assets/efe0150a-a74f-4e36-9ea7-234e945a309c" />
+
