@@ -114,7 +114,7 @@ Replaces manual pricing with intelligent, scalable systems.
 
 <img width="692" height="362" alt="image" src="https://github.com/user-attachments/assets/6f4e0c34-5432-4359-b716-2570fa02d8e9" />
 
-
+---
 ## Credit Card customer segmentation
 
 **Problem**
