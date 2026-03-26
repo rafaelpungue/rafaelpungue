@@ -76,7 +76,7 @@ Developed a machine learning solution for Hotel Havens, a luxury hotel chain, to
 ---
 ## Featured Data Science Projects
 
-## Gemineye Emporium's prediction pricing strategy
+## Jewelry_Price_Optimization--Regression-Supervised-ML
 is experiencing rapid business growth, transitioning from a small-scale jewelry provider to a large-scale manufacturer and distributor. This expansion introduced significant challenges in pricing strategy:
 
 Pricing has become complex due to multiple factors (manufacturing, imports, logistics).
