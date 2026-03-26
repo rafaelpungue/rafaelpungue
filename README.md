@@ -46,7 +46,7 @@ My expertise lies in data analytics, machine learning, business intelligence, an
 <!--
 
 🚗 Motor Insurance Claim Cost Prediction
-Predictive modeling for insurance reserving and financial risk management.
+Predictive modelling for insurance reserving and financial risk management.
 
 Problem: Inaccurate claim cost estimation leads to weak reserving and increased financial risk.
 Solution: Developed a regression pipeline to predict Ultimate Claim Amounts from policy and driver attributes.
