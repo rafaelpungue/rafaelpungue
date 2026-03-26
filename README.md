@@ -71,8 +71,6 @@ Developed a machine learning solution for Hotel Havens, a luxury hotel chain, to
 
 <img width="1228" height="817" alt="image" src="https://github.com/user-attachments/assets/ea17197d-8897-40dd-9c3e-4ebaad51e5a4" />
 
-
-
 ---
 ## Featured Data Science Projects
 
@@ -86,15 +84,15 @@ Profit maximization
 Competitive pricing
 External factors like market trends, customer preferences, and competition further complicate decision-making..
 
-- **Problem**: They lack a data-driven, scalable pricing system that balances profitability and competitiveness.
-- **Solution**: A machine learning–driven price optimization system was proposed and developed:
+**Problem**: They lack a data-driven, scalable pricing system that balances profitability and competitiveness.
+**Solution**: A machine learning–driven price optimization system was proposed and developed:
 
 Predictive Models to estimate optimal jewelry prices based on:
 Cost factors
 Market dynamics
 Product characteristics
 
-- **Key Achievement**: Built robust predictive models for price optimization.
+**Key Achievement**: Built robust predictive models for price optimization.
 Successfully identified key features influencing pricing decisions.
 Improved accuracy and reliability of price predictions.
 Delivered interpretable insights for business stakeholders.
