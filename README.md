@@ -8,7 +8,7 @@
 ## 🚀 About Me
 Welcome to my portfolio! Here you’ll find a curated selection of my projects in Data Science and Analytics.
 
-I am passionate about transforming raw data into actionable insights. My experience in cultivation, finance, supply chain, and risk analytics.
+I am passionate about transforming raw data into actionable insights. My experience spans cultivation, finance, supply chain, and risk analytics.
 
 I specialize in leveraging data to drive smarter decisions and build intelligent solutions.
 
