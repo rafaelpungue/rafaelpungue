@@ -72,4 +72,46 @@ Developed a machine learning solution for Hotel Havens, a luxury hotel chain, to
 <img width="1228" height="817" alt="image" src="https://github.com/user-attachments/assets/ea17197d-8897-40dd-9c3e-4ebaad51e5a4" />
 
 
+
 ---
+## Featured Data Science Projects
+
+## Gemineye Emporium's prediction pricing strategy
+is experiencing rapid business growth, transitioning from a small-scale jewelry provider to a large-scale manufacturer and distributor. This expansion introduced significant challenges in pricing strategy:
+
+Pricing has become complex due to multiple factors (manufacturing, imports, logistics).
+Costs are rising, driving up product prices.
+The company must balance:
+Profit maximization
+Competitive pricing
+External factors like market trends, customer preferences, and competition further complicate decision-making..
+
+- **Problem**: They lack a data-driven, scalable pricing system that balances profitability and competitiveness.
+- **Solution**: A machine learning–driven price optimization system was proposed and developed:
+
+Predictive Models to estimate optimal jewelry prices based on:
+Cost factors
+Market dynamics
+Product characteristics
+
+- **Key Achievement**: Built robust predictive models for price optimization.
+Successfully identified key features influencing pricing decisions.
+Improved accuracy and reliability of price predictions.
+Delivered interpretable insights for business stakeholders.
+Created a scalable framework adaptable to future growth and market changes
+
+- **Tools & Tech**: Python, Pandas, Scikit-learn, XGBoost, Feature Engineering, Data Visualization (Matplotlib & Seaborn)
+- 
+- **Impact**:
+- 📈 Increased Profitability
+Optimized pricing ensures better margins without overpricing.
+🏷️ Competitive Pricing Strategy
+Prices align with market conditions, improving competitiveness.
+😊 Improved Customer Satisfaction
+Fair and data-driven pricing enhances trust and perceived value.
+🔄 Business Agility
+Ability to adapt pricing dynamically to trends and demand shifts.
+🧠 Data-Driven Decision Making
+Replaces manual pricing with intelligent, scalable systems.
+
+<img width="692" height="362" alt="image" src="https://github.com/user-attachments/assets/6f4e0c34-5432-4359-b716-2570fa02d8e9" />
